@@ -18,7 +18,7 @@ namespace Lesson1
         }
         public int getA() => a;
         public int getB() =>b;
-        public void Print()=>Console.WriteLine("a+b="+a+b);
+        public void Print()=>Console.WriteLine("a = "+a+"b = "+b);
         public void setA(int a)=>this.a=a;
         public void setB(int b)=>this.b=b;
         public int Sum() => a + b;
