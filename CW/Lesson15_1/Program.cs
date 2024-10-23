@@ -11,7 +11,7 @@ keyEvent.KeyDown+=(sender,e) =>
         case 'B':
             {
                 MyColor(false); 
-                break;
+                break;  
             }
     }
 }
